@@ -9,7 +9,7 @@ on:
       - develop
       - master
 env:
-  RELEASE: 4.4.0.68
+  RELEASE: 4.5.0.19
 
 jobs:
   build:
